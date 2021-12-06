@@ -1,2 +1,4 @@
-# Imogi-React-project-8
-Created with CodeSandbox
+# Imogi-React
+Created with CodeSandboxe
+
+You should change the set of emojis in the emojiDictionary object.
